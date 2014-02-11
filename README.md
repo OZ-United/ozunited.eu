@@ -1,4 +1,3 @@
-ozunited.eu
-===========
+# ~ [ozunited.eu](http://www.ozunited.eu/)
 
-ozunited.eu
+Home of the OZ United website.
